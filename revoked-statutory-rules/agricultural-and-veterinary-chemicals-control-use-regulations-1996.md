@@ -1,6 +1,6 @@
 # Agricultural and Veterinary Chemicals (Control of Use) Regulations 1996
 Statutory rule number: 71/1996
-Authorised version: 002
-In force from: 2001-12-11
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/agricultural-and-veterinary-chemicals-control-use-regulations-1996/002
+Authorised version: 003
+In force from: 2002-01-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/agricultural-and-veterinary-chemicals-control-use-regulations-1996/003
 Listed as: Revoked statutory rule
