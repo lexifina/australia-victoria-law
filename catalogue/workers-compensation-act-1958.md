@@ -1,5 +1,5 @@
 # Workers Compensation Act 1958
 Act number: 6419/1958
-Authorised version: 131
-In force from: 1997-12-23
-Official page: https://www.legislation.vic.gov.au/in-force/acts/workers-compensation-act-1958/131
+Authorised version: 132
+In force from: 1998-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/workers-compensation-act-1958/132

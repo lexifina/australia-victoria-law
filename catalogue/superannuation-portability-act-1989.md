@@ -1,5 +1,5 @@
 # Superannuation (Portability) Act 1989
 Act number: 14/1989
-Authorised version: 020
-In force from: 1997-07-14
-Official page: https://www.legislation.vic.gov.au/in-force/acts/superannuation-portability-act-1989/020
+Authorised version: 021
+In force from: 1998-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/superannuation-portability-act-1989/021
