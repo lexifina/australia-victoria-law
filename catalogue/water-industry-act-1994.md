@@ -1,5 +1,5 @@
 # Water Industry Act 1994
 Act number: 121/1994
-Authorised version: 045
-In force from: 2004-09-22
-Official page: https://www.legislation.vic.gov.au/in-force/acts/water-industry-act-1994/045
+Authorised version: 046
+In force from: 2004-11-10
+Official page: https://www.legislation.vic.gov.au/in-force/acts/water-industry-act-1994/046

@@ -1,5 +1,5 @@
 # Parliamentary Salaries, Allowances and Superannuation Act 1968
 Act number: 7723/1968
-Authorised version: 082
-In force from: 2004-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/parliamentary-salaries-allowances-and-superannuation-act-1968/082
+Authorised version: 083
+In force from: 2004-11-10
+Official page: https://www.legislation.vic.gov.au/in-force/acts/parliamentary-salaries-allowances-and-superannuation-act-1968/083
