@@ -1,5 +1,5 @@
 # Health Services Act 1988
 Act number: 49/1988
-Authorised version: 054
-In force from: 1999-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/054
+Authorised version: 055
+In force from: 1999-08-12
+Official page: https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/055
