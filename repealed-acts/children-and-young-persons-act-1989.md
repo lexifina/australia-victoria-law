@@ -1,6 +1,6 @@
 # Children and Young Persons Act 1989
 Act number: 56/1989
-Authorised version: 074
-In force from: 2004-06-09
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/children-and-young-persons-act-1989/074
+Authorised version: 075
+In force from: 2004-12-08
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/children-and-young-persons-act-1989/075
 Listed as: Repealed Act
