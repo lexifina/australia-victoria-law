@@ -1,5 +1,5 @@
 # Public Holidays Act 1993
 Act number: 119/1993
-Authorised version: 015
-In force from: 2003-12-03
-Official page: https://www.legislation.vic.gov.au/in-force/acts/public-holidays-act-1993/015
+Authorised version: 020
+In force from: 2005-02-17
+Official page: https://www.legislation.vic.gov.au/in-force/acts/public-holidays-act-1993/020
