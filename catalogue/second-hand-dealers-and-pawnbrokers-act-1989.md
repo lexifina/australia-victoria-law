@@ -1,5 +1,5 @@
 # Second-Hand Dealers and Pawnbrokers Act 1989
 Act number: 54/1989
-Authorised version: 045
-In force from: 2002-09-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/second-hand-dealers-and-pawnbrokers-act-1989/045
+Authorised version: 050
+In force from: 2003-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/second-hand-dealers-and-pawnbrokers-act-1989/050
