@@ -1,6 +1,6 @@
 # Intellectually Disabled Persons' Services Act 1986
 Act number: 53/1986
-Authorised version: 045
-In force from: 2002-03-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/intellectually-disabled-persons-services-act-1986/045
+Authorised version: 046
+In force from: 2002-07-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/intellectually-disabled-persons-services-act-1986/046
 Listed as: Repealed Act
