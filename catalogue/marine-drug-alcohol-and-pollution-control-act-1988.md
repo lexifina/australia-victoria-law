@@ -1,5 +1,5 @@
 # Marine (Drug, Alcohol and Pollution Control) Act 1988
 Act number: 52/1988
-Authorised version: 046
-In force from: 2001-07-15
-Official page: https://www.legislation.vic.gov.au/in-force/acts/marine-drug-alcohol-and-pollution-control-act-1988/046
+Authorised version: 047
+In force from: 2001-11-28
+Official page: https://www.legislation.vic.gov.au/in-force/acts/marine-drug-alcohol-and-pollution-control-act-1988/047
