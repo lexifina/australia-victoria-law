@@ -1,6 +1,6 @@
 # Utility Meters (Metrological Controls) Act 2002
 Act number: 48/2002
-Authorised version: 001
-In force from: 2003-01-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/utility-meters-metrological-controls-act-2002/001
+Authorised version: 002
+In force from: 2004-12-22
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/utility-meters-metrological-controls-act-2002/002
 Listed as: Repealed Act
