@@ -1,6 +1,6 @@
 # Gaming Machine Control Act 1991
 Act number: 53/1991
-Authorised version: 077
-In force from: 2001-06-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/gaming-machine-control-act-1991/077
+Authorised version: 078
+In force from: 2001-07-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/gaming-machine-control-act-1991/078
 Listed as: Repealed Act
