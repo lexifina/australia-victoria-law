@@ -1,6 +1,6 @@
 # Transport (Tow Truck) Regulations 1994
 Statutory rule number: 182/1994
-Authorised version: 012
-In force from: 1999-05-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/transport-tow-truck-regulations-1994/012
+Authorised version: 013
+In force from: 1999-05-11
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/transport-tow-truck-regulations-1994/013
 Listed as: Revoked statutory rule
