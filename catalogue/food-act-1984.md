@@ -1,5 +1,5 @@
 # Food Act 1984
 Act number: 10082/1984
-Authorised version: 054
-In force from: 2001-07-15
-Official page: https://www.legislation.vic.gov.au/in-force/acts/food-act-1984/054
+Authorised version: 060
+In force from: 2002-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/food-act-1984/060
