@@ -1,5 +1,5 @@
 # National Gallery of Victoria Act 1966
 Act number: 7482/1966
-Authorised version: 030
-In force from: 1998-03-26
-Official page: https://www.legislation.vic.gov.au/in-force/acts/national-gallery-victoria-act-1966/030
+Authorised version: 031
+In force from: 1998-04-21
+Official page: https://www.legislation.vic.gov.au/in-force/acts/national-gallery-victoria-act-1966/031
