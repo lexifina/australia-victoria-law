@@ -1,5 +1,5 @@
 # Constitution Act 1975
 Act number: 8750/1975
-Authorised version: 147
-In force from: 2002-04-24
-Official page: https://www.legislation.vic.gov.au/in-force/acts/constitution-act-1975/147
+Authorised version: 150
+In force from: 2002-09-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/constitution-act-1975/150
