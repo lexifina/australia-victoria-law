@@ -1,5 +1,5 @@
 # Estate Agents Act 1980
 Act number: 9428/1980
-Authorised version: 064
-In force from: 1999-09-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/estate-agents-act-1980/064
+Authorised version: 070
+In force from: 2000-01-13
+Official page: https://www.legislation.vic.gov.au/in-force/acts/estate-agents-act-1980/070
