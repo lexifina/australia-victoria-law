@@ -1,6 +1,6 @@
 # Environment Protection Act 1970
 Act number: 8056/1970
-Authorised version: 132
-In force from: 2001-05-09
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/environment-protection-act-1970/132
+Authorised version: 133
+In force from: 2001-06-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/environment-protection-act-1970/133
 Listed as: Repealed Act
