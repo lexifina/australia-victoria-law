@@ -1,5 +1,5 @@
 # Gas Industry (Residual Provisions) Act 1994
 Act number: 112/1994
-Authorised version: 024
-In force from: 1998-06-08
-Official page: https://www.legislation.vic.gov.au/in-force/acts/gas-industry-residual-provisions-act-1994/024
+Authorised version: 026
+In force from: 1998-11-24
+Official page: https://www.legislation.vic.gov.au/in-force/acts/gas-industry-residual-provisions-act-1994/026
