@@ -1,5 +1,5 @@
 # Electricity Industry Act 2000
 Act number: 68/2000
-Authorised version: 004
-In force from: 2001-07-15
-Official page: https://www.legislation.vic.gov.au/in-force/acts/electricity-industry-act-2000/004
+Authorised version: 005
+In force from: 2001-09-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/electricity-industry-act-2000/005
