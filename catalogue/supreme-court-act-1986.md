@@ -1,5 +1,5 @@
 # Supreme Court Act 1986
 Act number: 110/1986
-Authorised version: 022
-In force from: 1997-12-16
-Official page: https://www.legislation.vic.gov.au/in-force/acts/supreme-court-act-1986/022
+Authorised version: 023
+In force from: 1997-12-22
+Official page: https://www.legislation.vic.gov.au/in-force/acts/supreme-court-act-1986/023
