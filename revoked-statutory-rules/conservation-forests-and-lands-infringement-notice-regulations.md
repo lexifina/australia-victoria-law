@@ -1,6 +1,6 @@
 # Conservation, Forests and Lands (Infringement Notice) Regulations 1992
 Statutory rule number: 164/1992
-Authorised version: 030
-In force from: 1999-11-23
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/conservation-forests-and-lands-infringement-notice-regulations/030
+Authorised version: 031
+In force from: 1999-12-21
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/conservation-forests-and-lands-infringement-notice-regulations/031
 Listed as: Revoked statutory rule
