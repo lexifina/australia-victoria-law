@@ -1,5 +1,5 @@
 # Catchment and Land Protection Act 1994
 Act number: 52/1994
-Authorised version: 020
-In force from: 1999-01-31
-Official page: https://www.legislation.vic.gov.au/in-force/acts/catchment-and-land-protection-act-1994/020
+Authorised version: 021
+In force from: 1999-12-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/catchment-and-land-protection-act-1994/021

@@ -1,5 +1,5 @@
 # Jurisdiction of Courts (Cross-vesting) Act 1987
 Act number: 29/1987
-Authorised version: 011
-In force from: 1997-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/jurisdiction-courts-cross-vesting-act-1987/011
+Authorised version: 012
+In force from: 1999-12-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/jurisdiction-courts-cross-vesting-act-1987/012
