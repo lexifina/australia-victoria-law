@@ -1,5 +1,5 @@
 # Crown Land (Reserves) Act 1978
 Act number: 9212/1978
-Authorised version: 052
-In force from: 2000-11-09
-Official page: https://www.legislation.vic.gov.au/in-force/acts/crown-land-reserves-act-1978/052
+Authorised version: 053
+In force from: 2000-11-21
+Official page: https://www.legislation.vic.gov.au/in-force/acts/crown-land-reserves-act-1978/053
