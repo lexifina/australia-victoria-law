@@ -1,6 +1,6 @@
 # Supreme Court (General Civil Procedure) Rules 1996
 Statutory rule number: 19/1996
-Authorised version: 043
-In force from: 2003-09-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/supreme-court-general-civil-procedure-rules-1996/043
+Authorised version: 044
+In force from: 2004-01-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/supreme-court-general-civil-procedure-rules-1996/044
 Listed as: Revoked statutory rule
