@@ -1,5 +1,5 @@
 # Port Management Act 1995
 Act number: 82/1995
-Authorised version: 031
-In force from: 2003-11-03
-Official page: https://www.legislation.vic.gov.au/in-force/acts/port-management-act-1995/031
+Authorised version: 032
+In force from: 2003-11-12
+Official page: https://www.legislation.vic.gov.au/in-force/acts/port-management-act-1995/032
