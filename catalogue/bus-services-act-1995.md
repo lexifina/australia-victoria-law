@@ -1,5 +1,5 @@
 # Bus Services Act 1995
 Act number: 68/1995
-Authorised version: 001
-In force from: 1997-09-16
-Official page: https://www.legislation.vic.gov.au/in-force/acts/bus-services-act-1995/001
+Authorised version: 002
+In force from: 1998-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/bus-services-act-1995/002
