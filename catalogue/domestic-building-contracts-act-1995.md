@@ -1,5 +1,5 @@
 # Domestic Building Contracts Act 1995
 Act number: 91/1995
-Authorised version: 030
-In force from: 1998-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/domestic-building-contracts-act-1995/030
+Authorised version: 031
+In force from: 1999-02-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/domestic-building-contracts-act-1995/031
