@@ -1,6 +1,6 @@
 # Property Law (Fees) Regulations 1993
 Statutory rule number: 184/1993
-Authorised version: 002
-In force from: 1999-01-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/property-law-fees-regulations-1993/002
+Authorised version: 003
+In force from: 2003-09-30
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/property-law-fees-regulations-1993/003
 Listed as: Revoked statutory rule
