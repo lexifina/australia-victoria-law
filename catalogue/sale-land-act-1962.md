@@ -1,5 +1,5 @@
 # Sale of Land Act 1962
 Act number: 6975/1962
-Authorised version: 104
-In force from: 1999-09-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/sale-land-act-1962/104
+Authorised version: 110
+In force from: 2000-01-06
+Official page: https://www.legislation.vic.gov.au/in-force/acts/sale-land-act-1962/110
