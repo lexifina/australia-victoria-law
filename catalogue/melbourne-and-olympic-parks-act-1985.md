@@ -1,5 +1,5 @@
 # Melbourne and Olympic Parks Act 1985
 Act number: 10206/1985
-Authorised version: 012
-In force from: 1997-11-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/melbourne-and-olympic-parks-act-1985/012
+Authorised version: 020
+In force from: 1998-03-12
+Official page: https://www.legislation.vic.gov.au/in-force/acts/melbourne-and-olympic-parks-act-1985/020
