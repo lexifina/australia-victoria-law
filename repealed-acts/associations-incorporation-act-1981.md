@@ -1,6 +1,6 @@
 # Associations Incorporation Act 1981
 Act number: 9713/1981
-Authorised version: 061
-In force from: 2004-12-22
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/associations-incorporation-act-1981/061
+Authorised version: 062
+In force from: 2005-04-05
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/associations-incorporation-act-1981/062
 Listed as: Repealed Act
