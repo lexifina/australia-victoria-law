@@ -1,5 +1,5 @@
 # Credit Act 1984
 Act number: 10097/1984
-Authorised version: 031
-In force from: 1999-09-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/credit-act-1984/031
+Authorised version: 032
+In force from: 2001-06-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/credit-act-1984/032
