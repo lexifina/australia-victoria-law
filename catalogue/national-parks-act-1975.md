@@ -1,5 +1,5 @@
 # National Parks Act 1975
 Act number: 8702/1975
-Authorised version: 076
-In force from: 2000-11-21
-Official page: https://www.legislation.vic.gov.au/in-force/acts/national-parks-act-1975/076
+Authorised version: 077
+In force from: 2000-11-22
+Official page: https://www.legislation.vic.gov.au/in-force/acts/national-parks-act-1975/077
