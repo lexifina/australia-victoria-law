@@ -1,6 +1,6 @@
 # Supreme Court (Administration and Probate) Rules 1994
 Statutory rule number: 97/1994
-Authorised version: 013
-In force from: 2002-01-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/supreme-court-administration-and-probate-rules-1994/013
+Authorised version: 014
+In force from: 2002-05-30
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/supreme-court-administration-and-probate-rules-1994/014
 Listed as: Revoked statutory rule
