@@ -1,5 +1,5 @@
 # Prevention of Cruelty to Animals Act 1986
 Act number: 46/1986
-Authorised version: 024
-In force from: 1998-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/prevention-cruelty-animals-act-1986/024
+Authorised version: 030
+In force from: 1998-10-22
+Official page: https://www.legislation.vic.gov.au/in-force/acts/prevention-cruelty-animals-act-1986/030
