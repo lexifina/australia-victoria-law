@@ -1,6 +1,6 @@
 # Petroleum (Submerged Lands) Act 1982
 Act number: 9772/1982
-Authorised version: 034
-In force from: 2002-04-24
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/petroleum-submerged-lands-act-1982/034
+Authorised version: 040
+In force from: 2003-01-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/petroleum-submerged-lands-act-1982/040
 Listed as: Repealed Act
