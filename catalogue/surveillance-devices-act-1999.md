@@ -1,5 +1,5 @@
 # Surveillance Devices Act 1999
 Act number: 21/1999
-Authorised version: 006
-In force from: 2003-10-16
-Official page: https://www.legislation.vic.gov.au/in-force/acts/surveillance-devices-act-1999/006
+Authorised version: 007
+In force from: 2003-12-10
+Official page: https://www.legislation.vic.gov.au/in-force/acts/surveillance-devices-act-1999/007
