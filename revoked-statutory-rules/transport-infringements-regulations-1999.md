@@ -1,6 +1,6 @@
 # Transport (Infringements) Regulations 1999
 Statutory rule number: 112/1999
-Authorised version: 003
-In force from: 2004-07-13
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/transport-infringements-regulations-1999/003
+Authorised version: 010
+In force from: 2004-11-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/transport-infringements-regulations-1999/010
 Listed as: Revoked statutory rule
