@@ -1,5 +1,5 @@
 # Survey Co-ordination Act 1958
 Act number: 6388/1958
-Authorised version: 063
-In force from: 2005-01-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/survey-co-ordination-act-1958/063
+Authorised version: 064
+In force from: 2005-04-05
+Official page: https://www.legislation.vic.gov.au/in-force/acts/survey-co-ordination-act-1958/064
