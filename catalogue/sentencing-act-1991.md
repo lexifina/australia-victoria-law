@@ -1,5 +1,5 @@
 # Sentencing Act 1991
 Act number: 49/1991
-Authorised version: 056
-In force from: 2001-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/sentencing-act-1991/056
+Authorised version: 060
+In force from: 2001-08-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/sentencing-act-1991/060
