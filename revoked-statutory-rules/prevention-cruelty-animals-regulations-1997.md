@@ -1,6 +1,6 @@
 # Prevention of Cruelty to Animals Regulations 1997
 Statutory rule number: 159/1997
-Authorised version: 011
-In force from: 2004-04-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/prevention-cruelty-animals-regulations-1997/011
+Authorised version: 012
+In force from: 2004-06-23
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/prevention-cruelty-animals-regulations-1997/012
 Listed as: Revoked statutory rule
