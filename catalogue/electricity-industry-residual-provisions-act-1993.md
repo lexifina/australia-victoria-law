@@ -1,5 +1,5 @@
 # Electricity Industry (Residual Provisions) Act 1993
 Act number: 130/1993
-Authorised version: 032
-In force from: 1997-11-27
-Official page: https://www.legislation.vic.gov.au/in-force/acts/electricity-industry-residual-provisions-act-1993/032
+Authorised version: 033
+In force from: 1998-04-28
+Official page: https://www.legislation.vic.gov.au/in-force/acts/electricity-industry-residual-provisions-act-1993/033
