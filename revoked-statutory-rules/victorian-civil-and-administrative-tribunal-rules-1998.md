@@ -1,6 +1,6 @@
 # Victorian Civil and Administrative Tribunal Rules 1998
 Statutory rule number: 87/1998
-Authorised version: 022
-In force from: 2001-03-21
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/victorian-civil-and-administrative-tribunal-rules-1998/022
+Authorised version: 023
+In force from: 2001-10-02
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/victorian-civil-and-administrative-tribunal-rules-1998/023
 Listed as: Revoked statutory rule
