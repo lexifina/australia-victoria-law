@@ -1,5 +1,5 @@
 # Consumer Credit (Victoria) Act 1995
 Act number: 41/1995
-Authorised version: 021
-In force from: 2001-06-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/consumer-credit-victoria-act-1995/021
+Authorised version: 022
+In force from: 2001-07-15
+Official page: https://www.legislation.vic.gov.au/in-force/acts/consumer-credit-victoria-act-1995/022

@@ -1,5 +1,5 @@
 # Liquor Control Reform Act 1998
 Act number: 94/1998
-Authorised version: 005
-In force from: 2001-05-30
-Official page: https://www.legislation.vic.gov.au/in-force/acts/liquor-control-reform-act-1998/005
+Authorised version: 006
+In force from: 2001-07-15
+Official page: https://www.legislation.vic.gov.au/in-force/acts/liquor-control-reform-act-1998/006
