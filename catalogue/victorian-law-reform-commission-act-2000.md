@@ -1,5 +1,5 @@
 # Victorian Law Reform Commission Act 2000
 Act number: 44/2000
-Authorised version: 003
-In force from: 2005-04-05
-Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-law-reform-commission-act-2000/003
+Authorised version: 004
+In force from: 2005-05-24
+Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-law-reform-commission-act-2000/004
