@@ -1,5 +1,5 @@
 # Fisheries Act 1995
 Act number: 92/1995
-Authorised version: 042
-In force from: 2005-08-25
-Official page: https://www.legislation.vic.gov.au/in-force/acts/fisheries-act-1995/042
+Authorised version: 043
+In force from: 2005-09-20
+Official page: https://www.legislation.vic.gov.au/in-force/acts/fisheries-act-1995/043
