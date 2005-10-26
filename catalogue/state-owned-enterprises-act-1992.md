@@ -1,5 +1,5 @@
 # State Owned Enterprises Act 1992
 Act number: 90/1992
-Authorised version: 033
-In force from: 2001-07-15
-Official page: https://www.legislation.vic.gov.au/in-force/acts/state-owned-enterprises-act-1992/033
+Authorised version: 034
+In force from: 2005-10-26
+Official page: https://www.legislation.vic.gov.au/in-force/acts/state-owned-enterprises-act-1992/034
