@@ -1,6 +1,6 @@
 # Commonwealth Games Arrangements Act 2001
 Act number: 57/2001
-Authorised version: 015
-In force from: 2005-11-23
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/commonwealth-games-arrangements-act-2001/015
+Authorised version: 016
+In force from: 2005-11-30
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/commonwealth-games-arrangements-act-2001/016
 Listed as: Repealed Act
