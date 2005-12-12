@@ -1,6 +1,6 @@
 # Travel Agents Act 1986
 Act number: 52/1986
-Authorised version: 041
-In force from: 2005-04-05
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/travel-agents-act-1986/041
+Authorised version: 042
+In force from: 2005-12-12
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/travel-agents-act-1986/042
 Listed as: Repealed Act
