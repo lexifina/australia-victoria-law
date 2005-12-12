@@ -1,5 +1,5 @@
 # Confiscation Act 1997
 Act number: 108/1997
-Authorised version: 042
-In force from: 2005-05-26
-Official page: https://www.legislation.vic.gov.au/in-force/acts/confiscation-act-1997/042
+Authorised version: 043
+In force from: 2005-12-12
+Official page: https://www.legislation.vic.gov.au/in-force/acts/confiscation-act-1997/043
