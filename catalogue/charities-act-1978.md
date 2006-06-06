@@ -1,5 +1,5 @@
 # Charities Act 1978
 Act number: 9227/1978
-Authorised version: 022
-In force from: 2005-11-30
-Official page: https://www.legislation.vic.gov.au/in-force/acts/charities-act-1978/022
+Authorised version: 023
+In force from: 2006-06-06
+Official page: https://www.legislation.vic.gov.au/in-force/acts/charities-act-1978/023
