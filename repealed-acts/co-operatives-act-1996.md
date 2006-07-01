@@ -1,6 +1,6 @@
 # Co-operatives Act 1996
 Act number: 84/1996
-Authorised version: 025
-In force from: 2005-12-12
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/co-operatives-act-1996/025
+Authorised version: 026
+In force from: 2006-07-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/co-operatives-act-1996/026
 Listed as: Repealed Act
