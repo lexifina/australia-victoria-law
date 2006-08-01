@@ -1,5 +1,5 @@
 # Retirement Villages Act 1986
 Act number: 126/1986
-Authorised version: 043
-In force from: 2006-01-30
-Official page: https://www.legislation.vic.gov.au/in-force/acts/retirement-villages-act-1986/043
+Authorised version: 044
+In force from: 2006-08-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/retirement-villages-act-1986/044
