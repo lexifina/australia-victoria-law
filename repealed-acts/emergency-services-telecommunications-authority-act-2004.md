@@ -1,6 +1,6 @@
 # Emergency Services Telecommunications Authority Act 2004
 Act number: 98/2004
-Authorised version: 002
-In force from: 2005-11-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/emergency-services-telecommunications-authority-act-2004/002
+Authorised version: 003
+In force from: 2006-10-11
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/emergency-services-telecommunications-authority-act-2004/003
 Listed as: Repealed Act

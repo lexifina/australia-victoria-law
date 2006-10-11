@@ -1,6 +1,6 @@
 # Equal Opportunity Act 1995
 Act number: 42/1995
-Authorised version: 045
-In force from: 2006-10-10
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/equal-opportunity-act-1995/045
+Authorised version: 046
+In force from: 2006-10-11
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/equal-opportunity-act-1995/046
 Listed as: Repealed Act
