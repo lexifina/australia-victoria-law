@@ -1,5 +1,5 @@
 # Police Regulation (Pensions) Act 1958
 Act number: 6338/1958
-Authorised version: 110
-In force from: 2006-11-09
-Official page: https://www.legislation.vic.gov.au/in-force/acts/police-regulation-pensions-act-1958/110
+Authorised version: 111
+In force from: 2007-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/police-regulation-pensions-act-1958/111
