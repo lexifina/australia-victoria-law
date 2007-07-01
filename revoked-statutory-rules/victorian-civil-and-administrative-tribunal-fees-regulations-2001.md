@@ -1,6 +1,6 @@
 # Victorian Civil and Administrative Tribunal (Fees) Regulations 2001
 Statutory rule number: 160/2001
-Authorised version: 010
-In force from: 2005-04-18
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/victorian-civil-and-administrative-tribunal-fees-regulations-2001/010
+Authorised version: 011
+In force from: 2007-07-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/victorian-civil-and-administrative-tribunal-fees-regulations-2001/011
 Listed as: Revoked statutory rule
