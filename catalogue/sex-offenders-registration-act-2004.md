@@ -1,5 +1,5 @@
 # Sex Offenders Registration Act 2004
 Act number: 56/2004
-Authorised version: 023
-In force from: 2007-06-27
-Official page: https://www.legislation.vic.gov.au/in-force/acts/sex-offenders-registration-act-2004/023
+Authorised version: 024
+In force from: 2007-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/sex-offenders-registration-act-2004/024

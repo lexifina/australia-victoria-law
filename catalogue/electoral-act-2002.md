@@ -1,5 +1,5 @@
 # Electoral Act 2002
 Act number: 23/2002
-Authorised version: 020
-In force from: 2006-10-31
-Official page: https://www.legislation.vic.gov.au/in-force/acts/electoral-act-2002/020
+Authorised version: 021
+In force from: 2007-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/electoral-act-2002/021

@@ -1,5 +1,5 @@
 # Transport Superannuation Act 1988
 Act number: 33/1988
-Authorised version: 050
-In force from: 2005-12-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/transport-superannuation-act-1988/050
+Authorised version: 051
+In force from: 2007-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/transport-superannuation-act-1988/051
