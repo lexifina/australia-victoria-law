@@ -1,5 +1,5 @@
 # Freedom of Information Act 1982
 Act number: 9859/1982
-Authorised version: 062
-In force from: 2007-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/freedom-information-act-1982/062
+Authorised version: 063
+In force from: 2007-08-03
+Official page: https://www.legislation.vic.gov.au/in-force/acts/freedom-information-act-1982/063
