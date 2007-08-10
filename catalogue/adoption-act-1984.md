@@ -1,5 +1,5 @@
 # Adoption Act 1984
 Act number: 10150/1984
-Authorised version: 054
-In force from: 2007-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/adoption-act-1984/054
+Authorised version: 055
+In force from: 2007-08-10
+Official page: https://www.legislation.vic.gov.au/in-force/acts/adoption-act-1984/055
