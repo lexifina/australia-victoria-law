@@ -1,6 +1,6 @@
 # Magistrates' Court (Criminal Procedure) Rules 2006
 Statutory rule number: 55/2006
-Authorised version: 005
-In force from: 2007-07-02
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/magistrates-court-criminal-procedure-rules-2006/005
+Authorised version: 006
+In force from: 2007-10-29
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/magistrates-court-criminal-procedure-rules-2006/006
 Listed as: Revoked statutory rule
