@@ -1,6 +1,6 @@
 # Road Safety (Road Rules) Regulations 1999
 Statutory rule number: 120/1999
-Authorised version: 020
-In force from: 2008-01-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/road-safety-road-rules-regulations-1999/020
+Authorised version: 021
+In force from: 2008-04-16
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/road-safety-road-rules-regulations-1999/021
 Listed as: Revoked statutory rule
