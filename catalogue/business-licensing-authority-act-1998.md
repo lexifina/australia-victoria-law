@@ -1,5 +1,5 @@
 # Business Licensing Authority Act 1998
 Act number: 49/1998
-Authorised version: 017
-In force from: 2008-03-19
-Official page: https://www.legislation.vic.gov.au/in-force/acts/business-licensing-authority-act-1998/017
+Authorised version: 020
+In force from: 2008-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/business-licensing-authority-act-1998/020

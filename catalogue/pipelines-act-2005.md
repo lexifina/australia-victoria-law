@@ -1,5 +1,5 @@
 # Pipelines Act 2005
 Act number: 61/2005
-Authorised version: 002
-In force from: 2008-06-04
-Official page: https://www.legislation.vic.gov.au/in-force/acts/pipelines-act-2005/002
+Authorised version: 003
+In force from: 2008-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/pipelines-act-2005/003
