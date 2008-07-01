@@ -1,6 +1,6 @@
 # Transfer of Land (Fees) Regulations 2004
 Statutory rule number: 118/2004
-Authorised version: 005
-In force from: 2007-11-05
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/transfer-land-fees-regulations-2004/005
+Authorised version: 010
+In force from: 2008-07-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/transfer-land-fees-regulations-2004/010
 Listed as: Revoked statutory rule
