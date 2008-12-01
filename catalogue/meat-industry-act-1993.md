@@ -1,5 +1,5 @@
 # Meat Industry Act 1993
 Act number: 40/1993
-Authorised version: 040
-In force from: 2007-07-16
-Official page: https://www.legislation.vic.gov.au/in-force/acts/meat-industry-act-1993/040
+Authorised version: 041
+In force from: 2008-12-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/meat-industry-act-1993/041
