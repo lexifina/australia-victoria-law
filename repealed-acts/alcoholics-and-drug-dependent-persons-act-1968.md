@@ -1,6 +1,6 @@
 # Alcoholics and Drug-dependent Persons Act 1968
 Act number: 7772/1968
-Authorised version: 070
-In force from: 2007-09-18
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/alcoholics-and-drug-dependent-persons-act-1968/070
+Authorised version: 071
+In force from: 2008-12-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/alcoholics-and-drug-dependent-persons-act-1968/071
 Listed as: Repealed Act
