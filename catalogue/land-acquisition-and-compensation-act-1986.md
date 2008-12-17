@@ -1,5 +1,5 @@
 # Land Acquisition and Compensation Act 1986
 Act number: 121/1986
-Authorised version: 035
-In force from: 2008-12-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/land-acquisition-and-compensation-act-1986/035
+Authorised version: 036
+In force from: 2008-12-17
+Official page: https://www.legislation.vic.gov.au/in-force/acts/land-acquisition-and-compensation-act-1986/036
