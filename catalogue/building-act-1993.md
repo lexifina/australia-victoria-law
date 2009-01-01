@@ -1,5 +1,5 @@
 # Building Act 1993
 Act number: 126/1993
-Authorised version: 075
-In force from: 2008-12-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/building-act-1993/075
+Authorised version: 076
+In force from: 2009-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/building-act-1993/076
