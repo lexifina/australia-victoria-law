@@ -1,5 +1,5 @@
 # Fundraising Act 1998
 Act number: 78/1998
-Authorised version: 022
-In force from: 2008-12-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/fundraising-act-1998/022
+Authorised version: 023
+In force from: 2009-02-11
+Official page: https://www.legislation.vic.gov.au/in-force/acts/fundraising-act-1998/023
