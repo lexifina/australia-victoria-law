@@ -1,5 +1,5 @@
 # Wrongs Act 1958
 Act number: 6420/1958
-Authorised version: 098
-In force from: 2008-12-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/wrongs-act-1958/098
+Authorised version: 099
+In force from: 2009-11-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/wrongs-act-1958/099

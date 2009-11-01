@@ -1,5 +1,5 @@
 # Interpretation of Legislation Act 1984
 Act number: 10096/1984
-Authorised version: 093
-In force from: 2009-10-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/interpretation-legislation-act-1984/093
+Authorised version: 094
+In force from: 2009-11-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/interpretation-legislation-act-1984/094
