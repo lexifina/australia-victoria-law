@@ -1,5 +1,5 @@
 # Attorney-General and Solicitor-General Act 1972
 Act number: 8305/1972
-Authorised version: 024
-In force from: 2008-12-11
-Official page: https://www.legislation.vic.gov.au/in-force/acts/attorney-general-and-solicitor-general-act-1972/024
+Authorised version: 025
+In force from: 2009-12-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/attorney-general-and-solicitor-general-act-1972/025

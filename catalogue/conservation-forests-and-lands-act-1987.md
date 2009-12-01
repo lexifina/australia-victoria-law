@@ -1,5 +1,5 @@
 # Conservation, Forests and Lands Act 1987
 Act number: 41/1987
-Authorised version: 072
-In force from: 2009-08-06
-Official page: https://www.legislation.vic.gov.au/in-force/acts/conservation-forests-and-lands-act-1987/072
+Authorised version: 073
+In force from: 2009-12-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/conservation-forests-and-lands-act-1987/073
