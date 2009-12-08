@@ -1,5 +1,5 @@
 # Family Violence Protection Act 2008
 Act number: 52/2008
-Authorised version: 003
-In force from: 2009-09-09
-Official page: https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008/003
+Authorised version: 004
+In force from: 2009-12-08
+Official page: https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008/004

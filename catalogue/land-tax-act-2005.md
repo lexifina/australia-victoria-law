@@ -1,5 +1,5 @@
 # Land Tax Act 2005
 Act number: 88/2005
-Authorised version: 031
-In force from: 2009-12-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/land-tax-act-2005/031
+Authorised version: 032
+In force from: 2009-12-08
+Official page: https://www.legislation.vic.gov.au/in-force/acts/land-tax-act-2005/032
