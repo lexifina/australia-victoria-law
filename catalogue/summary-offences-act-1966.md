@@ -1,5 +1,5 @@
 # Summary Offences Act 1966
 Act number: 7405/1966
-Authorised version: 102
-In force from: 2009-12-16
-Official page: https://www.legislation.vic.gov.au/in-force/acts/summary-offences-act-1966/102
+Authorised version: 103
+In force from: 2010-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/summary-offences-act-1966/103

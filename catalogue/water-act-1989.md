@@ -1,5 +1,5 @@
 # Water Act 1989
 Act number: 80/1989
-Authorised version: 094
-In force from: 2009-12-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/water-act-1989/094
+Authorised version: 095
+In force from: 2010-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/water-act-1989/095

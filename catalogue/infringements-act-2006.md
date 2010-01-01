@@ -1,5 +1,5 @@
 # Infringements Act 2006
 Act number: 12/2006
-Authorised version: 022
-In force from: 2009-12-17
-Official page: https://www.legislation.vic.gov.au/in-force/acts/infringements-act-2006/022
+Authorised version: 023
+In force from: 2010-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/infringements-act-2006/023

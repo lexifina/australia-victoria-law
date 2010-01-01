@@ -1,5 +1,5 @@
 # Country Fire Authority Act 1958
 Act number: 6228/1958
-Authorised version: 125
-In force from: 2009-12-02
-Official page: https://www.legislation.vic.gov.au/in-force/acts/country-fire-authority-act-1958/125
+Authorised version: 126
+In force from: 2010-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/country-fire-authority-act-1958/126

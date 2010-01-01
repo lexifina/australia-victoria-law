@@ -1,5 +1,5 @@
 # Classification (Publications, Films and Computer Games) (Enforcement) Act 1995
 Act number: 90/1995
-Authorised version: 022
-In force from: 2009-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/classification-publications-films-and-computer-games-enforcement-act-1995/022
+Authorised version: 023
+In force from: 2010-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/classification-publications-films-and-computer-games-enforcement-act-1995/023

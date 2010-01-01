@@ -1,5 +1,5 @@
 # Human Tissue Act 1982
 Act number: 9860/1982
-Authorised version: 035
-In force from: 2009-11-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/human-tissue-act-1982/035
+Authorised version: 036
+In force from: 2010-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/human-tissue-act-1982/036
