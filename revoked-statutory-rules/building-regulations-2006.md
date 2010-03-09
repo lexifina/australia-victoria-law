@@ -1,6 +1,6 @@
 # Building Regulations 2006
 Statutory rule number: 68/2006
-Authorised version: 011
-In force from: 2009-11-11
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/building-regulations-2006/011
+Authorised version: 012
+In force from: 2010-03-09
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/building-regulations-2006/012
 Listed as: Revoked statutory rule
