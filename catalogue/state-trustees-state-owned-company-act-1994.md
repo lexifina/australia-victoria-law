@@ -1,5 +1,5 @@
 # State Trustees (State Owned Company) Act 1994
 Act number: 45/1994
-Authorised version: 020
-In force from: 2008-05-15
-Official page: https://www.legislation.vic.gov.au/in-force/acts/state-trustees-state-owned-company-act-1994/020
+Authorised version: 021
+In force from: 2010-05-11
+Official page: https://www.legislation.vic.gov.au/in-force/acts/state-trustees-state-owned-company-act-1994/021
