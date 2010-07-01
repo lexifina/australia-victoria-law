@@ -1,5 +1,5 @@
 # Emergency Services Superannuation Act 1986
 Act number: 94/1986
-Authorised version: 068
-In force from: 2009-12-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/emergency-services-superannuation-act-1986/068
+Authorised version: 069
+In force from: 2010-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/emergency-services-superannuation-act-1986/069

@@ -1,5 +1,5 @@
 # Development Victoria Act 2003
 Act number: 59/2003
-Authorised version: 015
-In force from: 2010-05-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/development-victoria-act-2003/015
+Authorised version: 016
+In force from: 2010-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/development-victoria-act-2003/016

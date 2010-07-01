@@ -1,5 +1,5 @@
 # Victims of Crime Assistance Act 1996
 Act number: 81/1996
-Authorised version: 046
-In force from: 2010-01-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/victims-crime-assistance-act-1996/046
+Authorised version: 047
+In force from: 2010-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/victims-crime-assistance-act-1996/047

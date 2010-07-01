@@ -1,5 +1,5 @@
 # Professional Boxing and Combat Sports Act 1985
 Act number: 10183/1985
-Authorised version: 024
-In force from: 2008-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/professional-boxing-and-combat-sports-act-1985/024
+Authorised version: 025
+In force from: 2010-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/professional-boxing-and-combat-sports-act-1985/025
