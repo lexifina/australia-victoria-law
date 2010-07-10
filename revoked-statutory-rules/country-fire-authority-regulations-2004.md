@@ -1,6 +1,6 @@
 # Country Fire Authority Regulations 2004
 Statutory rule number: 9/2004
-Authorised version: 011
-In force from: 2009-07-09
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/country-fire-authority-regulations-2004/011
+Authorised version: 012
+In force from: 2010-07-10
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/country-fire-authority-regulations-2004/012
 Listed as: Revoked statutory rule
