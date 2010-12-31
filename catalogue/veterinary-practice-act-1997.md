@@ -1,5 +1,5 @@
 # Veterinary Practice Act 1997
 Act number: 58/1997
-Authorised version: 023
-In force from: 2010-10-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/veterinary-practice-act-1997/023
+Authorised version: 024
+In force from: 2010-12-31
+Official page: https://www.legislation.vic.gov.au/in-force/acts/veterinary-practice-act-1997/024
