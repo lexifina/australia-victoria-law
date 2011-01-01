@@ -1,5 +1,5 @@
 # Victorian Funds Management Corporation Act 1994
 Act number: 61/1994
-Authorised version: 015
-In force from: 2008-01-18
-Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-funds-management-corporation-act-1994/015
+Authorised version: 016
+In force from: 2011-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-funds-management-corporation-act-1994/016

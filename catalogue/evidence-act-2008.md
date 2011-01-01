@@ -1,5 +1,5 @@
 # Evidence Act 2008
 Act number: 47/2008
-Authorised version: 002
-In force from: 2010-01-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/evidence-act-2008/002
+Authorised version: 010
+In force from: 2011-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/evidence-act-2008/010
