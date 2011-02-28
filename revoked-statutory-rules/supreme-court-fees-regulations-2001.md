@@ -1,6 +1,6 @@
 # Supreme Court (Fees) Regulations 2001
 Statutory rule number: 159/2001
-Authorised version: 009
-In force from: 2009-12-31
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/supreme-court-fees-regulations-2001/009
+Authorised version: 010
+In force from: 2011-02-28
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/supreme-court-fees-regulations-2001/010
 Listed as: Revoked statutory rule
