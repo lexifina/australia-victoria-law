@@ -1,6 +1,6 @@
 # Metropolitan Fire Brigades (General) Regulations 2005
 Statutory rule number: 132/2005
-Authorised version: 010
-In force from: 2011-06-16
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/metropolitan-fire-brigades-general-regulations-2005/010
+Authorised version: 011
+In force from: 2011-07-15
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/metropolitan-fire-brigades-general-regulations-2005/011
 Listed as: Revoked statutory rule
