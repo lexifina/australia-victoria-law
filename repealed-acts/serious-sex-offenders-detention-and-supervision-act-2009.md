@@ -1,6 +1,6 @@
 # Serious Sex Offenders (Detention and Supervision) Act 2009
 Act number: 91/2009
-Authorised version: 004
-In force from: 2010-11-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/serious-sex-offenders-detention-and-supervision-act-2009/004
+Authorised version: 005
+In force from: 2011-08-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/serious-sex-offenders-detention-and-supervision-act-2009/005
 Listed as: Repealed Act
