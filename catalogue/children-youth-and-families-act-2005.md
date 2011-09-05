@@ -1,5 +1,5 @@
 # Children, Youth and Families Act 2005
 Act number: 96/2005
-Authorised version: 032
-In force from: 2011-06-30
-Official page: https://www.legislation.vic.gov.au/in-force/acts/children-youth-and-families-act-2005/032
+Authorised version: 033
+In force from: 2011-09-05
+Official page: https://www.legislation.vic.gov.au/in-force/acts/children-youth-and-families-act-2005/033
