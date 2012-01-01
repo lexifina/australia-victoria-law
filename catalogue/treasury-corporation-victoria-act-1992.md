@@ -1,5 +1,5 @@
 # Treasury Corporation of Victoria Act 1992
 Act number: 80/1992
-Authorised version: 041
-In force from: 2011-10-25
-Official page: https://www.legislation.vic.gov.au/in-force/acts/treasury-corporation-victoria-act-1992/041
+Authorised version: 042
+In force from: 2012-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/treasury-corporation-victoria-act-1992/042
