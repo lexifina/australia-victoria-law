@@ -1,5 +1,5 @@
 # Severe Substance Dependence Treatment Act 2010
 Act number: 43/2010
-Authorised version: 003
-In force from: 2011-06-22
-Official page: https://www.legislation.vic.gov.au/in-force/acts/severe-substance-dependence-treatment-act-2010/003
+Authorised version: 004
+In force from: 2012-03-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/severe-substance-dependence-treatment-act-2010/004
