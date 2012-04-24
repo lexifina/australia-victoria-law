@@ -1,5 +1,5 @@
 # Owner Drivers and Forestry Contractors Act 2005
 Act number: 49/2005
-Authorised version: 011
-In force from: 2010-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/owner-drivers-and-forestry-contractors-act-2005/011
+Authorised version: 012
+In force from: 2012-04-24
+Official page: https://www.legislation.vic.gov.au/in-force/acts/owner-drivers-and-forestry-contractors-act-2005/012
