@@ -1,6 +1,6 @@
 # Guardianship and Administration Act 1986
 Act number: 58/1986
-Authorised version: 075
-In force from: 2011-08-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/guardianship-and-administration-act-1986/075
+Authorised version: 076
+In force from: 2012-07-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/guardianship-and-administration-act-1986/076
 Listed as: Repealed Act
