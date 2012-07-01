@@ -1,5 +1,5 @@
 # Retail Leases Act 2003
 Act number: 4/2003
-Authorised version: 015
-In force from: 2011-08-24
-Official page: https://www.legislation.vic.gov.au/in-force/acts/retail-leases-act-2003/015
+Authorised version: 016
+In force from: 2012-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/retail-leases-act-2003/016

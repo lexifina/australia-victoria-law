@@ -1,5 +1,5 @@
 # Bus Safety Act 2009
 Act number: 13/2009
-Authorised version: 012
-In force from: 2011-12-31
-Official page: https://www.legislation.vic.gov.au/in-force/acts/bus-safety-act-2009/012
+Authorised version: 013
+In force from: 2012-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/bus-safety-act-2009/013
