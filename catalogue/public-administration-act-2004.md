@@ -1,5 +1,5 @@
 # Public Administration Act 2004
 Act number: 108/2004
-Authorised version: 028
-In force from: 2012-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/public-administration-act-2004/028
+Authorised version: 030
+In force from: 2012-07-26
+Official page: https://www.legislation.vic.gov.au/in-force/acts/public-administration-act-2004/030
