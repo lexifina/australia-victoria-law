@@ -1,5 +1,5 @@
 # Public Records Act 1973
 Act number: 8418/1973
-Authorised version: 036
-In force from: 2012-05-24
-Official page: https://www.legislation.vic.gov.au/in-force/acts/public-records-act-1973/036
+Authorised version: 040
+In force from: 2013-05-09
+Official page: https://www.legislation.vic.gov.au/in-force/acts/public-records-act-1973/040
