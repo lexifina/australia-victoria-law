@@ -1,5 +1,5 @@
 # Victorian Civil and Administrative Tribunal Act 1998
 Act number: 53/1998
-Authorised version: 082
-In force from: 2013-05-15
-Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-civil-and-administrative-tribunal-act-1998/082
+Authorised version: 083
+In force from: 2013-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-civil-and-administrative-tribunal-act-1998/083
