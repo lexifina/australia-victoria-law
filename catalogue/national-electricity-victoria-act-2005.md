@@ -1,5 +1,5 @@
 # National Electricity (Victoria) Act 2005
 Act number: 8/2005
-Authorised version: 016
-In force from: 2013-04-18
-Official page: https://www.legislation.vic.gov.au/in-force/acts/national-electricity-victoria-act-2005/016
+Authorised version: 020
+In force from: 2013-09-25
+Official page: https://www.legislation.vic.gov.au/in-force/acts/national-electricity-victoria-act-2005/020
