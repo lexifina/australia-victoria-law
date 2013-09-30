@@ -1,5 +1,5 @@
 # State Sport Centres Act 1994
 Act number: 117/1994
-Authorised version: 026
-In force from: 2011-01-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/state-sport-centres-act-1994/026
+Authorised version: 030
+In force from: 2013-09-30
+Official page: https://www.legislation.vic.gov.au/in-force/acts/state-sport-centres-act-1994/030
