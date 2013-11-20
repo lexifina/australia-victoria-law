@@ -1,5 +1,5 @@
 # Transport Accident Act 1986
 Act number: 111/1986
-Authorised version: 123
-In force from: 2013-11-19
-Official page: https://www.legislation.vic.gov.au/in-force/acts/transport-accident-act-1986/123
+Authorised version: 124
+In force from: 2013-11-20
+Official page: https://www.legislation.vic.gov.au/in-force/acts/transport-accident-act-1986/124
