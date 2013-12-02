@@ -1,6 +1,6 @@
 # Supreme Court (General Civil Procedure) Rules 2005
 Statutory rule number: 148/2005
-Authorised version: 051
-In force from: 2013-12-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/supreme-court-general-civil-procedure-rules-2005/051
+Authorised version: 052
+In force from: 2013-12-02
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/supreme-court-general-civil-procedure-rules-2005/052
 Listed as: Revoked statutory rule
