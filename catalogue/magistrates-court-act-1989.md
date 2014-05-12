@@ -1,5 +1,5 @@
 # Magistrates' Court Act 1989
 Act number: 51/1989
-Authorised version: 181
-In force from: 2014-04-19
-Official page: https://www.legislation.vic.gov.au/in-force/acts/magistrates-court-act-1989/181
+Authorised version: 182
+In force from: 2014-05-12
+Official page: https://www.legislation.vic.gov.au/in-force/acts/magistrates-court-act-1989/182
