@@ -1,6 +1,6 @@
 # Subordinate Legislation (Legislative Instruments) Regulations 2011
 Statutory rule number: 52/2011
-Authorised version: 004
-In force from: 2013-07-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/subordinate-legislation-legislative-instruments-regulations-2011/004
+Authorised version: 005
+In force from: 2014-05-27
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/subordinate-legislation-legislative-instruments-regulations-2011/005
 Listed as: Revoked statutory rule
