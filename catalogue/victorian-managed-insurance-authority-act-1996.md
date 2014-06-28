@@ -1,5 +1,5 @@
 # Victorian Managed Insurance Authority Act 1996
 Act number: 11/1996
-Authorised version: 035
-In force from: 2013-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-managed-insurance-authority-act-1996/035
+Authorised version: 036
+In force from: 2014-06-28
+Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-managed-insurance-authority-act-1996/036
