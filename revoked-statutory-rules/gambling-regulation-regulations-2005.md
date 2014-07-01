@@ -1,6 +1,6 @@
 # Gambling Regulation Regulations 2005
 Statutory rule number: 61/2005
-Authorised version: 007
-In force from: 2012-08-16
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/gambling-regulation-regulations-2005/007
+Authorised version: 008
+In force from: 2014-07-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/gambling-regulation-regulations-2005/008
 Listed as: Revoked statutory rule
