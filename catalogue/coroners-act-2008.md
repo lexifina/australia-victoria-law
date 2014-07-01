@@ -1,5 +1,5 @@
 # Coroners Act 2008
 Act number: 77/2008
-Authorised version: 016
-In force from: 2014-02-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/coroners-act-2008/016
+Authorised version: 017
+In force from: 2014-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/coroners-act-2008/017

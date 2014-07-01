@@ -1,5 +1,5 @@
 # Local Government Act 1989
 Act number: 11/1989
-Authorised version: 122
-In force from: 2014-04-18
-Official page: https://www.legislation.vic.gov.au/in-force/acts/local-government-act-1989/122
+Authorised version: 123
+In force from: 2014-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/local-government-act-1989/123
