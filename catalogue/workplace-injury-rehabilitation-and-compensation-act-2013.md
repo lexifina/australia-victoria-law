@@ -1,5 +1,5 @@
 # Workplace Injury Rehabilitation and Compensation Act 2013
 Act number: 67/2013
-Authorised version: 011
-In force from: 2014-09-17
-Official page: https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/011
+Authorised version: 012
+In force from: 2014-10-15
+Official page: https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/012

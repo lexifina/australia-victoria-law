@@ -1,5 +1,5 @@
 # Health Records Act 2001
 Act number: 2/2001
-Authorised version: 027
-In force from: 2014-09-17
-Official page: https://www.legislation.vic.gov.au/in-force/acts/health-records-act-2001/027
+Authorised version: 028
+In force from: 2014-10-15
+Official page: https://www.legislation.vic.gov.au/in-force/acts/health-records-act-2001/028
