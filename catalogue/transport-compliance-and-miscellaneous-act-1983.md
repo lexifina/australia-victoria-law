@@ -1,5 +1,5 @@
 # Transport (Compliance and Miscellaneous) Act 1983
 Act number: 9921/1983
-Authorised version: 189D
-In force from: 2014-10-15
-Official page: https://www.legislation.vic.gov.au/in-force/acts/transport-compliance-and-miscellaneous-act-1983/189D
+Authorised version: 190
+In force from: 2014-10-31
+Official page: https://www.legislation.vic.gov.au/in-force/acts/transport-compliance-and-miscellaneous-act-1983/190
