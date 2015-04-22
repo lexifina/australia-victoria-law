@@ -1,5 +1,5 @@
 # Funerals Act 2006
 Act number: 77/2006
-Authorised version: 007
-In force from: 2014-08-13
-Official page: https://www.legislation.vic.gov.au/in-force/acts/funerals-act-2006/007
+Authorised version: 008
+In force from: 2015-04-22
+Official page: https://www.legislation.vic.gov.au/in-force/acts/funerals-act-2006/008
