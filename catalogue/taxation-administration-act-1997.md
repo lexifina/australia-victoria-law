@@ -1,5 +1,5 @@
 # Taxation Administration Act 1997
 Act number: 40/1997
-Authorised version: 057
-In force from: 2014-12-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/taxation-administration-act-1997/057
+Authorised version: 058
+In force from: 2015-06-17
+Official page: https://www.legislation.vic.gov.au/in-force/acts/taxation-administration-act-1997/058
