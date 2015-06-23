@@ -1,6 +1,6 @@
 # Transport (Buses, Taxi-Cabs and Other Commercial Passenger Vehicles) Regulations 2005
 Statutory rule number: 67/2005
-Authorised version: 018
-In force from: 2015-06-15
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/transport-buses-taxi-cabs-and-other-commercial-passenger-vehicles/018
+Authorised version: 019
+In force from: 2015-06-23
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/transport-buses-taxi-cabs-and-other-commercial-passenger-vehicles/019
 Listed as: Revoked statutory rule
