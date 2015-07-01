@@ -1,5 +1,5 @@
 # Major Crime (Investigative Powers) Act 2004
 Act number: 79/2004
-Authorised version: 034
-In force from: 2014-10-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/major-crime-investigative-powers-act-2004/034
+Authorised version: 035
+In force from: 2015-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/major-crime-investigative-powers-act-2004/035

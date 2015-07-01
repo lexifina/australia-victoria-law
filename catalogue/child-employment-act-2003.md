@@ -1,5 +1,5 @@
 # Child Employment Act 2003
 Act number: 81/2003
-Authorised version: 017
-In force from: 2014-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/child-employment-act-2003/017
+Authorised version: 018
+In force from: 2015-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/child-employment-act-2003/018
