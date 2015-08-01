@@ -1,5 +1,5 @@
 # Infringements Act 2006
 Act number: 12/2006
-Authorised version: 043
-In force from: 2015-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/infringements-act-2006/043
+Authorised version: 044
+In force from: 2015-08-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/infringements-act-2006/044

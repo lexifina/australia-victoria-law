@@ -1,5 +1,5 @@
 # Parliamentary Committees Act 2003
 Act number: 110/2003
-Authorised version: 025
-In force from: 2015-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/parliamentary-committees-act-2003/025
+Authorised version: 026
+In force from: 2015-08-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/parliamentary-committees-act-2003/026
