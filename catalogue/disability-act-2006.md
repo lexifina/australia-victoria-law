@@ -1,5 +1,5 @@
 # Disability Act 2006
 Act number: 23/2006
-Authorised version: 019
-In force from: 2014-11-10
-Official page: https://www.legislation.vic.gov.au/in-force/acts/disability-act-2006/019
+Authorised version: 020
+In force from: 2015-09-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/disability-act-2006/020
