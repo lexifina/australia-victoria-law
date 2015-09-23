@@ -1,5 +1,5 @@
 # Parole Orders (Transfer) Act 1983
 Act number: 9960/1983
-Authorised version: 023
-In force from: 2013-04-30
-Official page: https://www.legislation.vic.gov.au/in-force/acts/parole-orders-transfer-act-1983/023
+Authorised version: 030
+In force from: 2015-09-23
+Official page: https://www.legislation.vic.gov.au/in-force/acts/parole-orders-transfer-act-1983/030
