@@ -1,5 +1,5 @@
 # Road Safety Act 1986
 Act number: 127/1986
-Authorised version: 167
-In force from: 2015-09-23
-Official page: https://www.legislation.vic.gov.au/in-force/acts/road-safety-act-1986/167
+Authorised version: 168
+In force from: 2015-10-30
+Official page: https://www.legislation.vic.gov.au/in-force/acts/road-safety-act-1986/168
