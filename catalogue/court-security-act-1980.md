@@ -1,5 +1,5 @@
 # Court Security Act 1980
 Act number: 9499/1980
-Authorised version: 034
-In force from: 2015-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/court-security-act-1980/034
+Authorised version: 035
+In force from: 2015-11-19
+Official page: https://www.legislation.vic.gov.au/in-force/acts/court-security-act-1980/035
