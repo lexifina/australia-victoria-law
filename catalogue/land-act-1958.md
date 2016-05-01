@@ -1,5 +1,5 @@
 # Land Act 1958
 Act number: 6284/1958
-Authorised version: 125
-In force from: 2015-03-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/land-act-1958/125
+Authorised version: 126
+In force from: 2016-05-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/land-act-1958/126
