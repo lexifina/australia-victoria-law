@@ -1,5 +1,5 @@
 # Road Management Act 2004
 Act number: 12/2004
-Authorised version: 050
-In force from: 2016-04-15
-Official page: https://www.legislation.vic.gov.au/in-force/acts/road-management-act-2004/050
+Authorised version: 051
+In force from: 2016-08-24
+Official page: https://www.legislation.vic.gov.au/in-force/acts/road-management-act-2004/051
