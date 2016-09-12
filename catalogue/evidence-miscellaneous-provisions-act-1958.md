@@ -1,5 +1,5 @@
 # Evidence (Miscellaneous Provisions) Act 1958
 Act number: 6246/1958
-Authorised version: 184
-In force from: 2015-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/evidence-miscellaneous-provisions-act-1958/184
+Authorised version: 185
+In force from: 2016-09-12
+Official page: https://www.legislation.vic.gov.au/in-force/acts/evidence-miscellaneous-provisions-act-1958/185
