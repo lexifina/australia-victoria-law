@@ -1,6 +1,6 @@
 # Serious Sex Offenders (Detention and Supervision) Regulations 2009
 Statutory rule number: 187/2009
-Authorised version: 004
-In force from: 2016-07-05
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/serious-sex-offenders-detention-and-supervision-regulations-2009/004
+Authorised version: 010
+In force from: 2016-10-31
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/serious-sex-offenders-detention-and-supervision-regulations-2009/010
 Listed as: Revoked statutory rule
