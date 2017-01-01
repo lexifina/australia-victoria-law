@@ -1,5 +1,5 @@
 # Alpine Resorts Act 1983
 Act number: 9974/1983
-Authorised version: 035
-In force from: 2013-08-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/alpine-resorts-act-1983/035
+Authorised version: 040
+In force from: 2017-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/alpine-resorts-act-1983/040
