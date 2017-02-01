@@ -1,5 +1,5 @@
 # Commission for Children and Young People Act 2012
 Act number: 79/2012
-Authorised version: 010
-In force from: 2017-01-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/commission-children-and-young-people-act-2012/010
+Authorised version: 011
+In force from: 2017-02-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/commission-children-and-young-people-act-2012/011
