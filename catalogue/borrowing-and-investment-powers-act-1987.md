@@ -1,5 +1,5 @@
 # Borrowing and Investment Powers Act 1987
 Act number: 13/1987
-Authorised version: 096
-In force from: 2017-01-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/borrowing-and-investment-powers-act-1987/096
+Authorised version: 097
+In force from: 2017-04-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/borrowing-and-investment-powers-act-1987/097
