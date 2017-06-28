@@ -1,5 +1,5 @@
 # Unclaimed Money Act 2008
 Act number: 44/2008
-Authorised version: 012
-In force from: 2015-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/unclaimed-money-act-2008/012
+Authorised version: 013
+In force from: 2017-06-28
+Official page: https://www.legislation.vic.gov.au/in-force/acts/unclaimed-money-act-2008/013
