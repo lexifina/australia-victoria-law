@@ -1,0 +1,6 @@
+# Building (Building Legislation Amendment (Consumer Protection) Act 2016) Transitional Regulations 2017
+Statutory rule number: 66/2017
+Authorised version: 001
+In force from: 2017-07-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/building-building-legislation-amendment-consumer-protection-act/001
+Listed as: Revoked statutory rule
