@@ -1,5 +1,5 @@
 # Corrections Act 1986
 Act number: 117/1986
-Authorised version: 127
-In force from: 2017-08-30
-Official page: https://www.legislation.vic.gov.au/in-force/acts/corrections-act-1986/127
+Authorised version: 128
+In force from: 2017-09-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/corrections-act-1986/128
