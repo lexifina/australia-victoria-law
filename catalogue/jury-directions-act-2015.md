@@ -1,5 +1,5 @@
 # Jury Directions Act 2015
 Act number: 14/2015
-Authorised version: 006
-In force from: 2017-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/jury-directions-act-2015/006
+Authorised version: 007
+In force from: 2017-10-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/jury-directions-act-2015/007
