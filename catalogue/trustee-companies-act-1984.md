@@ -1,5 +1,5 @@
 # Trustee Companies Act 1984
 Act number: 10168/1984
-Authorised version: 061
-In force from: 2015-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/trustee-companies-act-1984/061
+Authorised version: 062
+In force from: 2017-11-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/trustee-companies-act-1984/062
