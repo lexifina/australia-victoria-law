@@ -1,5 +1,5 @@
 # Drugs, Poisons and Controlled Substances Act 1981
 Act number: 9719/1981
-Authorised version: 113
-In force from: 2017-11-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/drugs-poisons-and-controlled-substances-act-1981/113
+Authorised version: 114
+In force from: 2017-11-29
+Official page: https://www.legislation.vic.gov.au/in-force/acts/drugs-poisons-and-controlled-substances-act-1981/114
