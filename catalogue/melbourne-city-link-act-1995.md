@@ -1,5 +1,5 @@
 # Melbourne City Link Act 1995
 Act number: 107/1995
-Authorised version: 103
-In force from: 2017-11-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/melbourne-city-link-act-1995/103
+Authorised version: 104
+In force from: 2017-12-15
+Official page: https://www.legislation.vic.gov.au/in-force/acts/melbourne-city-link-act-1995/104
