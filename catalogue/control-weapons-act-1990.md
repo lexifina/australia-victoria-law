@@ -1,5 +1,5 @@
 # Control of Weapons Act 1990
 Act number: 24/1990
-Authorised version: 070
-In force from: 2018-04-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/control-weapons-act-1990/070
+Authorised version: 071
+In force from: 2018-05-09
+Official page: https://www.legislation.vic.gov.au/in-force/acts/control-weapons-act-1990/071
