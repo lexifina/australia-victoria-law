@@ -1,5 +1,5 @@
 # Transport Integration Act 2010
 Act number: 6/2010
-Authorised version: 063
-In force from: 2017-12-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/transport-integration-act-2010/063
+Authorised version: 064
+In force from: 2018-05-30
+Official page: https://www.legislation.vic.gov.au/in-force/acts/transport-integration-act-2010/064
