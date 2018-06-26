@@ -1,5 +1,5 @@
 # Road Safety Road Rules 2017
 Statutory rule number: 41/2017
-Authorised version: 002
-In force from: 2018-01-30
-Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/road-safety-road-rules-2017/002
+Authorised version: 003
+In force from: 2018-06-26
+Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/road-safety-road-rules-2017/003
