@@ -1,5 +1,5 @@
 # Wildlife Act 1975
 Act number: 8699/1975
-Authorised version: 116
-In force from: 2018-05-30
-Official page: https://www.legislation.vic.gov.au/in-force/acts/wildlife-act-1975/116
+Authorised version: 117
+In force from: 2018-08-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/wildlife-act-1975/117
