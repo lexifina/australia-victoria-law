@@ -1,5 +1,5 @@
 # Mineral Resources (Sustainable Development) Act 1990
 Act number: 92/1990
-Authorised version: 114
-In force from: 2017-12-15
-Official page: https://www.legislation.vic.gov.au/in-force/acts/mineral-resources-sustainable-development-act-1990/114
+Authorised version: 115
+In force from: 2018-09-12
+Official page: https://www.legislation.vic.gov.au/in-force/acts/mineral-resources-sustainable-development-act-1990/115
