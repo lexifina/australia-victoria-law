@@ -1,5 +1,5 @@
 # Religious and Successory Trusts Act 1958
 Act number: 6357/1958
-Authorised version: 040
-In force from: 2013-05-16
-Official page: https://www.legislation.vic.gov.au/in-force/acts/religious-and-successory-trusts-act-1958/040
+Authorised version: 041
+In force from: 2019-03-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/religious-and-successory-trusts-act-1958/041

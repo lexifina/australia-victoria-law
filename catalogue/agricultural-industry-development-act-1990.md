@@ -1,5 +1,5 @@
 # Agricultural Industry Development Act 1990
 Act number: 48/1990
-Authorised version: 040
-In force from: 2016-02-18
-Official page: https://www.legislation.vic.gov.au/in-force/acts/agricultural-industry-development-act-1990/040
+Authorised version: 041
+In force from: 2019-03-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/agricultural-industry-development-act-1990/041

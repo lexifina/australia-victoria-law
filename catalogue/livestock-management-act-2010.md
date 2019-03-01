@@ -1,5 +1,5 @@
 # Livestock Management Act 2010
 Act number: 15/2010
-Authorised version: 005
-In force from: 2014-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/livestock-management-act-2010/005
+Authorised version: 006
+In force from: 2019-03-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/livestock-management-act-2010/006
