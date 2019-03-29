@@ -1,5 +1,5 @@
 # County Court Act 1958
 Act number: 6230/1958
-Authorised version: 173
-In force from: 2019-03-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/county-court-act-1958/173
+Authorised version: 174
+In force from: 2019-03-29
+Official page: https://www.legislation.vic.gov.au/in-force/acts/county-court-act-1958/174
