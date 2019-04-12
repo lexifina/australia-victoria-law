@@ -1,5 +1,5 @@
 # Legal Aid Act 1978
 Act number: 9245/1978
-Authorised version: 071
-In force from: 2018-11-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/legal-aid-act-1978/071
+Authorised version: 072
+In force from: 2019-04-12
+Official page: https://www.legislation.vic.gov.au/in-force/acts/legal-aid-act-1978/072
