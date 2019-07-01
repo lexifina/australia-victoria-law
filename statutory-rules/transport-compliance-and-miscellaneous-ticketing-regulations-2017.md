@@ -1,5 +1,5 @@
 # Transport (Compliance and Miscellaneous) (Ticketing) Regulations 2017
 Statutory rule number: 48/2017
-Authorised version: 005
-In force from: 2019-03-28
-Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/transport-compliance-and-miscellaneous-ticketing-regulations-2017/005
+Authorised version: 006
+In force from: 2019-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/transport-compliance-and-miscellaneous-ticketing-regulations-2017/006
