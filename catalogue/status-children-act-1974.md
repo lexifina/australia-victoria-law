@@ -1,5 +1,5 @@
 # Status of Children Act 1974
 Act number: 8602/1974
-Authorised version: 041
-In force from: 2019-08-28
-Official page: https://www.legislation.vic.gov.au/in-force/acts/status-children-act-1974/041
+Authorised version: 042
+In force from: 2019-09-24
+Official page: https://www.legislation.vic.gov.au/in-force/acts/status-children-act-1974/042
