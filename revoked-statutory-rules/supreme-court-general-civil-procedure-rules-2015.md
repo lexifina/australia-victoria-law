@@ -1,6 +1,6 @@
 # Supreme Court (General Civil Procedure) Rules 2015
 Statutory rule number: 103/2015
-Authorised version: 028
-In force from: 2019-06-03
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/supreme-court-general-civil-procedure-rules-2015/028
+Authorised version: 029
+In force from: 2019-09-30
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/supreme-court-general-civil-procedure-rules-2015/029
 Listed as: Revoked statutory rule
