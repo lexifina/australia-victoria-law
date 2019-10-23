@@ -1,5 +1,5 @@
 # Tobacco Act 1987
 Act number: 81/1987
-Authorised version: 091
-In force from: 2019-03-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/tobacco-act-1987/091
+Authorised version: 092
+In force from: 2019-10-23
+Official page: https://www.legislation.vic.gov.au/in-force/acts/tobacco-act-1987/092

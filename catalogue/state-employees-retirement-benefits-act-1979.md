@@ -1,5 +1,5 @@
 # State Employees Retirement Benefits Act 1979
 Act number: 9363/1979
-Authorised version: 083
-In force from: 2015-08-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/state-employees-retirement-benefits-act-1979/083
+Authorised version: 084
+In force from: 2019-10-23
+Official page: https://www.legislation.vic.gov.au/in-force/acts/state-employees-retirement-benefits-act-1979/084
