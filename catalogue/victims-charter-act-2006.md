@@ -1,5 +1,5 @@
 # Victims' Charter Act 2006
 Act number: 65/2006
-Authorised version: 021
-In force from: 2018-09-03
-Official page: https://www.legislation.vic.gov.au/in-force/acts/victims-charter-act-2006/021
+Authorised version: 022
+In force from: 2019-11-04
+Official page: https://www.legislation.vic.gov.au/in-force/acts/victims-charter-act-2006/022
