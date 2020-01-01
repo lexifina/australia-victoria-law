@@ -1,6 +1,6 @@
 # Sustainable Forests (Timber) Act 2004
 Act number: 48/2004
-Authorised version: 025
-In force from: 2017-12-31
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/sustainable-forests-timber-act-2004/025
+Authorised version: 026
+In force from: 2020-01-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/acts/sustainable-forests-timber-act-2004/026
 Listed as: Repealed Act
