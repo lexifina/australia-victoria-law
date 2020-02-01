@@ -1,5 +1,5 @@
 # Firearms Act 1996
 Act number: 66/1996
-Authorised version: 093
-In force from: 2019-10-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/firearms-act-1996/093
+Authorised version: 094
+In force from: 2020-02-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/firearms-act-1996/094
