@@ -1,5 +1,5 @@
 # Wills Act 1997
 Act number: 88/1997
-Authorised version: 034
-In force from: 2017-11-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/wills-act-1997/034
+Authorised version: 035
+In force from: 2020-03-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/wills-act-1997/035
