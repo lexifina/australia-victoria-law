@@ -1,5 +1,5 @@
 # Municipal Association Act 1907
 Act number: 2080/1907
-Authorised version: 043
-In force from: 2012-10-04
-Official page: https://www.legislation.vic.gov.au/in-force/acts/municipal-association-act-1907/043
+Authorised version: 044
+In force from: 2020-04-06
+Official page: https://www.legislation.vic.gov.au/in-force/acts/municipal-association-act-1907/044

@@ -1,5 +1,5 @@
 # Equipment (Public Safety) Act 1994
 Act number: 21/1994
-Authorised version: 041
-In force from: 2019-03-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/equipment-public-safety-act-1994/041
+Authorised version: 042
+In force from: 2020-04-06
+Official page: https://www.legislation.vic.gov.au/in-force/acts/equipment-public-safety-act-1994/042
