@@ -1,5 +1,5 @@
 # Supreme Court Act 1986
 Act number: 110/1986
-Authorised version: 103
-In force from: 2020-03-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/supreme-court-act-1986/103
+Authorised version: 104
+In force from: 2020-04-25
+Official page: https://www.legislation.vic.gov.au/in-force/acts/supreme-court-act-1986/104
