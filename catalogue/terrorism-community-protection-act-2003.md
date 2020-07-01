@@ -1,5 +1,5 @@
 # Terrorism (Community Protection) Act 2003
 Act number: 7/2003
-Authorised version: 039
-In force from: 2019-07-31
-Official page: https://www.legislation.vic.gov.au/in-force/acts/terrorism-community-protection-act-2003/039
+Authorised version: 040
+In force from: 2020-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/terrorism-community-protection-act-2003/040
