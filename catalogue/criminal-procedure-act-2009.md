@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2009
 Act number: 7/2009
-Authorised version: 078
-In force from: 2020-09-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/criminal-procedure-act-2009/078
+Authorised version: 079
+In force from: 2020-10-21
+Official page: https://www.legislation.vic.gov.au/in-force/acts/criminal-procedure-act-2009/079
