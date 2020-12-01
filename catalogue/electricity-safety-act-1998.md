@@ -1,5 +1,5 @@
 # Electricity Safety Act 1998
 Act number: 25/1998
-Authorised version: 079
-In force from: 2020-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/electricity-safety-act-1998/079
+Authorised version: 080
+In force from: 2020-12-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/electricity-safety-act-1998/080
