@@ -1,5 +1,5 @@
 # Independent Broad-based Anti-corruption Commission Act 2011
 Act number: 66/2011
-Authorised version: 034
-In force from: 2021-03-24
-Official page: https://www.legislation.vic.gov.au/in-force/acts/independent-broad-based-anti-corruption-commission-act-2011/034
+Authorised version: 035
+In force from: 2021-04-26
+Official page: https://www.legislation.vic.gov.au/in-force/acts/independent-broad-based-anti-corruption-commission-act-2011/035

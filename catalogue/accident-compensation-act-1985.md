@@ -1,5 +1,5 @@
 # Accident Compensation Act 1985
 Act number: 10191/1985
-Authorised version: 224
-In force from: 2020-11-18
-Official page: https://www.legislation.vic.gov.au/in-force/acts/accident-compensation-act-1985/224
+Authorised version: 225
+In force from: 2021-04-26
+Official page: https://www.legislation.vic.gov.au/in-force/acts/accident-compensation-act-1985/225
