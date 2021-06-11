@@ -1,5 +1,5 @@
 # Victorian Civil and Administrative Tribunal Rules 2018
 Statutory rule number: 77/2018
-Authorised version: 007
-In force from: 2020-11-15
-Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/victorian-civil-and-administrative-tribunal-rules-2018/007
+Authorised version: 008
+In force from: 2021-06-11
+Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/victorian-civil-and-administrative-tribunal-rules-2018/008
