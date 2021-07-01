@@ -1,5 +1,5 @@
 # Limitation of Actions Act 1958
 Act number: 6295/1958
-Authorised version: 108
-In force from: 2021-04-26
-Official page: https://www.legislation.vic.gov.au/in-force/acts/limitation-actions-act-1958/108
+Authorised version: 109
+In force from: 2021-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/limitation-actions-act-1958/109
