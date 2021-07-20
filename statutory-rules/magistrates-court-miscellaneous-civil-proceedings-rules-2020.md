@@ -1,5 +1,5 @@
 # Magistrates' Court (Miscellaneous Civil Proceedings) Rules 2020
 Statutory rule number: 113/2020
-Authorised version: 002
-In force from: 2021-04-01
-Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/magistrates-court-miscellaneous-civil-proceedings-rules-2020/002
+Authorised version: 003
+In force from: 2021-07-20
+Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/magistrates-court-miscellaneous-civil-proceedings-rules-2020/003
