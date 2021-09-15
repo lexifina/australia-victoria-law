@@ -1,5 +1,5 @@
 # Victorian Energy Efficiency Target Act 2007
 Act number: 70/2007
-Authorised version: 016
-In force from: 2019-03-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-energy-efficiency-target-act-2007/016
+Authorised version: 017
+In force from: 2021-09-15
+Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-energy-efficiency-target-act-2007/017
