@@ -1,5 +1,5 @@
 # Grain Handling and Storage Act 1995
 Act number: 45/1995
-Authorised version: 026
-In force from: 2019-12-06
-Official page: https://www.legislation.vic.gov.au/in-force/acts/grain-handling-and-storage-act-1995/026
+Authorised version: 027
+In force from: 2021-12-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/grain-handling-and-storage-act-1995/027
