@@ -1,5 +1,5 @@
 # Casino (Management Agreement) Act 1993
 Act number: 94/1993
-Authorised version: 042
-In force from: 2014-10-22
-Official page: https://www.legislation.vic.gov.au/in-force/acts/casino-management-agreement-act-1993/042
+Authorised version: 043
+In force from: 2022-01-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/casino-management-agreement-act-1993/043
