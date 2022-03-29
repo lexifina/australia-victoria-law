@@ -1,5 +1,5 @@
 # Maintenance Act 1965
 Act number: 7289/1965
-Authorised version: 051
-In force from: 2019-03-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/maintenance-act-1965/051
+Authorised version: 052
+In force from: 2022-03-29
+Official page: https://www.legislation.vic.gov.au/in-force/acts/maintenance-act-1965/052
