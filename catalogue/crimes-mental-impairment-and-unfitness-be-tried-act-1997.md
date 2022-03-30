@@ -1,5 +1,5 @@
 # Crimes (Mental Impairment and Unfitness to be Tried) Act 1997
 Act number: 65/1997
-Authorised version: 078
-In force from: 2022-03-29
-Official page: https://www.legislation.vic.gov.au/in-force/acts/crimes-mental-impairment-and-unfitness-be-tried-act-1997/078
+Authorised version: 079
+In force from: 2022-03-30
+Official page: https://www.legislation.vic.gov.au/in-force/acts/crimes-mental-impairment-and-unfitness-be-tried-act-1997/079
