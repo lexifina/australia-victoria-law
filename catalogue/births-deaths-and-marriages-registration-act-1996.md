@@ -1,5 +1,5 @@
 # Births, Deaths and Marriages Registration Act 1996
 Act number: 43/1996
-Authorised version: 039
-In force from: 2020-05-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/births-deaths-and-marriages-registration-act-1996/039
+Authorised version: 040
+In force from: 2022-06-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/births-deaths-and-marriages-registration-act-1996/040
