@@ -1,5 +1,5 @@
 # Forests Act 1958
 Act number: 6254/1958
-Authorised version: 137
-In force from: 2022-03-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/forests-act-1958/137
+Authorised version: 138
+In force from: 2022-09-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/forests-act-1958/138
