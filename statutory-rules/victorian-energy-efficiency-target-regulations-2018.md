@@ -1,5 +1,5 @@
 # Victorian Energy Efficiency Target Regulations 2018
 Statutory rule number: 145/2018
-Authorised version: 008
-In force from: 2022-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/victorian-energy-efficiency-target-regulations-2018/008
+Authorised version: 009
+In force from: 2022-09-27
+Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/victorian-energy-efficiency-target-regulations-2018/009
