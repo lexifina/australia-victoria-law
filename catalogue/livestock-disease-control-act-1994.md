@@ -1,5 +1,5 @@
 # Livestock Disease Control Act 1994
 Act number: 115/1994
-Authorised version: 080
-In force from: 2020-04-06
-Official page: https://www.legislation.vic.gov.au/in-force/acts/livestock-disease-control-act-1994/080
+Authorised version: 081
+In force from: 2022-10-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/livestock-disease-control-act-1994/081

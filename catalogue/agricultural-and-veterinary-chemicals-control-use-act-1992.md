@@ -1,5 +1,5 @@
 # Agricultural and Veterinary Chemicals (Control of Use) Act 1992
 Act number: 46/1992
-Authorised version: 057
-In force from: 2021-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/agricultural-and-veterinary-chemicals-control-use-act-1992/057
+Authorised version: 058
+In force from: 2022-10-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/agricultural-and-veterinary-chemicals-control-use-act-1992/058

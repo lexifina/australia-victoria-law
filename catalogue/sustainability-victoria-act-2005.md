@@ -1,5 +1,5 @@
 # Sustainability Victoria Act 2005
 Act number: 65/2005
-Authorised version: 008
-In force from: 2022-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/sustainability-victoria-act-2005/008
+Authorised version: 009
+In force from: 2022-10-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/sustainability-victoria-act-2005/009
