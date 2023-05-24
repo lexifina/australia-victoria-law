@@ -1,5 +1,5 @@
 # Worker Screening Act 2020
 Act number: 34/2020
-Authorised version: 003
-In force from: 2022-09-15
-Official page: https://www.legislation.vic.gov.au/in-force/acts/worker-screening-act-2020/003
+Authorised version: 004
+In force from: 2023-05-24
+Official page: https://www.legislation.vic.gov.au/in-force/acts/worker-screening-act-2020/004
