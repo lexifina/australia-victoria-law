@@ -1,5 +1,5 @@
 # Supreme Court (Miscellaneous Civil Proceedings) Rules 2018
 Statutory rule number: 57/2018
-Authorised version: 006
-In force from: 2023-04-01
-Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/supreme-court-miscellaneous-civil-proceedings-rules-2018/006
+Authorised version: 007
+In force from: 2023-06-01
+Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/supreme-court-miscellaneous-civil-proceedings-rules-2018/007
