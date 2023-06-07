@@ -1,5 +1,5 @@
 # Casino Control Act 1991
 Act number: 47/1991
-Authorised version: 102
-In force from: 2023-05-31
-Official page: https://www.legislation.vic.gov.au/in-force/acts/casino-control-act-1991/102
+Authorised version: 103
+In force from: 2023-06-07
+Official page: https://www.legislation.vic.gov.au/in-force/acts/casino-control-act-1991/103
