@@ -1,6 +1,6 @@
 # Mental Health Regulations 2014
 Statutory rule number: 77/2014
-Authorised version: 005
-In force from: 2022-07-01
-Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/mental-health-regulations-2014/005
+Authorised version: 006
+In force from: 2023-07-01
+Official page: https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/mental-health-regulations-2014/006
 Listed as: Revoked statutory rule
