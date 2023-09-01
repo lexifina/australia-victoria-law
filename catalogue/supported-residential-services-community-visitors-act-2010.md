@@ -1,5 +1,5 @@
 # Supported Residential Services (Private Proprietors) Act 2010
 Act number: 49/2010
-Authorised version: 011
-In force from: 2023-05-24
-Official page: https://www.legislation.vic.gov.au/in-force/acts/supported-residential-services-community-visitors-act-2010/011
+Authorised version: 012
+In force from: 2023-09-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/supported-residential-services-community-visitors-act-2010/012

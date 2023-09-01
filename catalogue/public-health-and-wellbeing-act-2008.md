@@ -1,5 +1,5 @@
 # Public Health and Wellbeing Act 2008
 Act number: 46/2008
-Authorised version: 061
-In force from: 2023-06-28
-Official page: https://www.legislation.vic.gov.au/in-force/acts/public-health-and-wellbeing-act-2008/061
+Authorised version: 062
+In force from: 2023-09-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/public-health-and-wellbeing-act-2008/062

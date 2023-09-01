@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1997
 Act number: 109/1997
-Authorised version: 103
-In force from: 2023-06-20
-Official page: https://www.legislation.vic.gov.au/in-force/acts/residential-tenancies-act-1997/103
+Authorised version: 104
+In force from: 2023-09-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/residential-tenancies-act-1997/104
