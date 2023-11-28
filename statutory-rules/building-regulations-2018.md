@@ -1,5 +1,5 @@
 # Building Regulations 2018
 Statutory rule number: 38/2018
-Authorised version: 020
-In force from: 2023-09-26
-Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/building-regulations-2018/020
+Authorised version: 021
+In force from: 2023-11-28
+Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/building-regulations-2018/021
