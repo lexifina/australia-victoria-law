@@ -1,5 +1,5 @@
 # Essential Services Commission Act 2001
 Act number: 62/2001
-Authorised version: 065
-In force from: 2023-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/essential-services-commission-act-2001/065
+Authorised version: 066
+In force from: 2023-12-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/essential-services-commission-act-2001/066
