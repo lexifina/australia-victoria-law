@@ -1,5 +1,5 @@
 # Victorian Inspectorate Act 2011
 Act number: 70/2011
-Authorised version: 043
-In force from: 2023-09-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-inspectorate-act-2011/043
+Authorised version: 044
+In force from: 2024-02-02
+Official page: https://www.legislation.vic.gov.au/in-force/acts/victorian-inspectorate-act-2011/044
