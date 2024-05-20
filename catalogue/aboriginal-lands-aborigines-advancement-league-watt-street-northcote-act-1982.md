@@ -1,5 +1,5 @@
 # Aboriginal Lands (Aborigines' Advancement League) (Watt Street, Northcote) Act 1982
 Act number: 9796/1982
-Authorised version: 004
-In force from: 2010-01-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-aborigines-advancement-league-watt-street-northcote-act-1982/004
+Authorised version: 005
+In force from: 2024-05-20
+Official page: https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-aborigines-advancement-league-watt-street-northcote-act-1982/005
