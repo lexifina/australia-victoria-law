@@ -1,5 +1,5 @@
 # Planning and Environment Act 1987
 Act number: 45/1987
-Authorised version: 155
-In force from: 2023-06-28
-Official page: https://www.legislation.vic.gov.au/in-force/acts/planning-and-environment-act-1987/155
+Authorised version: 156
+In force from: 2024-06-05
+Official page: https://www.legislation.vic.gov.au/in-force/acts/planning-and-environment-act-1987/156
