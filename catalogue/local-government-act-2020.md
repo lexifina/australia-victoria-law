@@ -1,5 +1,5 @@
 # Local Government Act 2020
 Act number: 9/2020
-Authorised version: 019
-In force from: 2023-04-26
-Official page: https://www.legislation.vic.gov.au/in-force/acts/local-government-act-2020/019
+Authorised version: 020
+In force from: 2024-06-26
+Official page: https://www.legislation.vic.gov.au/in-force/acts/local-government-act-2020/020
