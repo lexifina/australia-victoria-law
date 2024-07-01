@@ -1,5 +1,5 @@
 # Payroll Tax Act 2007
 Act number: 26/2007
-Authorised version: 037
-In force from: 2023-09-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/payroll-tax-act-2007/037
+Authorised version: 038
+In force from: 2024-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/payroll-tax-act-2007/038
