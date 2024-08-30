@@ -1,5 +1,5 @@
 # Gambling Regulation Act 2003
 Act number: 114/2003
-Authorised version: 105
-In force from: 2024-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/gambling-regulation-act-2003/105
+Authorised version: 106
+In force from: 2024-08-30
+Official page: https://www.legislation.vic.gov.au/in-force/acts/gambling-regulation-act-2003/106
