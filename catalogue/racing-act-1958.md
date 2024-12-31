@@ -1,5 +1,5 @@
 # Racing Act 1958
 Act number: 6353/1958
-Authorised version: 183
-In force from: 2024-09-11
-Official page: https://www.legislation.vic.gov.au/in-force/acts/racing-act-1958/183
+Authorised version: 184
+In force from: 2024-12-31
+Official page: https://www.legislation.vic.gov.au/in-force/acts/racing-act-1958/184
