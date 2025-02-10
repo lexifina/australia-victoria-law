@@ -1,5 +1,5 @@
 # Judicial Commission of Victoria Act 2016
 Act number: 16/2016
-Authorised version: 008
-In force from: 2024-12-31
-Official page: https://www.legislation.vic.gov.au/in-force/acts/judicial-commission-victoria-act-2016/008
+Authorised version: 009
+In force from: 2025-02-10
+Official page: https://www.legislation.vic.gov.au/in-force/acts/judicial-commission-victoria-act-2016/009
