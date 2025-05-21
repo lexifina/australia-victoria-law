@@ -1,5 +1,5 @@
 # Domestic Animals Act 1994
 Act number: 81/1994
-Authorised version: 087
-In force from: 2024-11-18
-Official page: https://www.legislation.vic.gov.au/in-force/acts/domestic-animals-act-1994/087
+Authorised version: 088
+In force from: 2025-05-21
+Official page: https://www.legislation.vic.gov.au/in-force/acts/domestic-animals-act-1994/088
