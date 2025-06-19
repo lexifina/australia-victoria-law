@@ -1,5 +1,5 @@
 # Crimes Act 1958
 Act number: 6231/1958
-Authorised version: 307
-In force from: 2025-02-10
-Official page: https://www.legislation.vic.gov.au/in-force/acts/crimes-act-1958/307
+Authorised version: 308
+In force from: 2025-06-19
+Official page: https://www.legislation.vic.gov.au/in-force/acts/crimes-act-1958/308
