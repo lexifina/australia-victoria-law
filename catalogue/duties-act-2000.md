@@ -1,5 +1,5 @@
 # Duties Act 2000
 Act number: 79/2000
-Authorised version: 137
-In force from: 2025-01-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/duties-act-2000/137
+Authorised version: 138
+In force from: 2025-06-25
+Official page: https://www.legislation.vic.gov.au/in-force/acts/duties-act-2000/138
