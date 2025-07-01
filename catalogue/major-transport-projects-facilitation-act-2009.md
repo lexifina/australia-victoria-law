@@ -1,5 +1,5 @@
 # Major Transport Projects Facilitation Act 2009
 Act number: 56/2009
-Authorised version: 040
-In force from: 2024-11-27
-Official page: https://www.legislation.vic.gov.au/in-force/acts/major-transport-projects-facilitation-act-2009/040
+Authorised version: 041
+In force from: 2025-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/major-transport-projects-facilitation-act-2009/041
