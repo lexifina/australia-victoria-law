@@ -1,5 +1,5 @@
 # Surveying Act 2004
 Act number: 47/2004
-Authorised version: 016
-In force from: 2023-03-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/surveying-act-2004/016
+Authorised version: 017
+In force from: 2025-08-06
+Official page: https://www.legislation.vic.gov.au/in-force/acts/surveying-act-2004/017

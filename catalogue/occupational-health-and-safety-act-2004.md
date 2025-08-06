@@ -1,5 +1,5 @@
 # Occupational Health and Safety Act 2004
 Act number: 107/2004
-Authorised version: 044
-In force from: 2024-03-31
-Official page: https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/044
+Authorised version: 045
+In force from: 2025-08-06
+Official page: https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045
