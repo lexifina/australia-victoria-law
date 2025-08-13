@@ -1,5 +1,5 @@
 # EastLink Project Act 2004
 Act number: 39/2004
-Authorised version: 053
-In force from: 2025-08-06
-Official page: https://www.legislation.vic.gov.au/in-force/acts/eastlink-project-act-2004/053
+Authorised version: 054
+In force from: 2025-08-13
+Official page: https://www.legislation.vic.gov.au/in-force/acts/eastlink-project-act-2004/054
