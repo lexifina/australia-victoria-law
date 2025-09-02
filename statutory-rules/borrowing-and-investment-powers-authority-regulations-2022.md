@@ -1,5 +1,5 @@
 # Borrowing and Investment Powers (Authority) Regulations 2022
 Statutory rule number: 52/2022
-Authorised version: 006
-In force from: 2024-10-15
-Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/borrowing-and-investment-powers-authority-regulations-2022/006
+Authorised version: 007
+In force from: 2025-09-02
+Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/borrowing-and-investment-powers-authority-regulations-2022/007
