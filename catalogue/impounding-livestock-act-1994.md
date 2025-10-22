@@ -1,5 +1,5 @@
 # Impounding of Livestock Act 1994
 Act number: 89/1994
-Authorised version: 040
-In force from: 2025-08-06
-Official page: https://www.legislation.vic.gov.au/in-force/acts/impounding-livestock-act-1994/040
+Authorised version: 041
+In force from: 2025-10-22
+Official page: https://www.legislation.vic.gov.au/in-force/acts/impounding-livestock-act-1994/041

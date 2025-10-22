@@ -1,5 +1,5 @@
 # Court Services Victoria Act 2014
 Act number: 1/2014
-Authorised version: 005
-In force from: 2017-10-11
-Official page: https://www.legislation.vic.gov.au/in-force/acts/court-services-victoria-act-2014/005
+Authorised version: 006
+In force from: 2025-10-22
+Official page: https://www.legislation.vic.gov.au/in-force/acts/court-services-victoria-act-2014/006
