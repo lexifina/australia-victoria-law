@@ -1,5 +1,5 @@
 # Great Ocean Road and Environs Protection Act 2020
 Act number: 19/2020
-Authorised version: 005
-In force from: 2025-08-06
-Official page: https://www.legislation.vic.gov.au/in-force/acts/great-ocean-road-and-environs-protection-act-2020/005
+Authorised version: 006
+In force from: 2025-10-28
+Official page: https://www.legislation.vic.gov.au/in-force/acts/great-ocean-road-and-environs-protection-act-2020/006
