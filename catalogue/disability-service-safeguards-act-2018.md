@@ -1,5 +1,5 @@
 # Disability Service Safeguards Act 2018
 Act number: 38/2018
-Authorised version: 007
-In force from: 2025-12-17
-Official page: https://www.legislation.vic.gov.au/in-force/acts/disability-service-safeguards-act-2018/007
+Authorised version: 008
+In force from: 2026-02-09
+Official page: https://www.legislation.vic.gov.au/in-force/acts/disability-service-safeguards-act-2018/008
