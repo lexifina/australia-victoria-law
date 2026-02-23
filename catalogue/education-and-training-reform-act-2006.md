@@ -1,5 +1,5 @@
 # Education and Training Reform Act 2006
 Act number: 24/2006
-Authorised version: 106
-In force from: 2026-02-09
-Official page: https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006/106
+Authorised version: 107
+In force from: 2026-02-23
+Official page: https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006/107
