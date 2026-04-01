@@ -1,5 +1,5 @@
 # Accident Towing Services Act 2007
 Act number: 30/2007
-Authorised version: 035
-In force from: 2025-12-28
-Official page: https://www.legislation.vic.gov.au/in-force/acts/accident-towing-services-act-2007/035
+Authorised version: 036
+In force from: 2026-04-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/accident-towing-services-act-2007/036
