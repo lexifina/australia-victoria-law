@@ -1,5 +1,5 @@
 # Fines Reform Act 2014
 Act number: 47/2014
-Authorised version: 032
-In force from: 2025-09-30
-Official page: https://www.legislation.vic.gov.au/in-force/acts/fines-reform-act-2014/032
+Authorised version: 033
+In force from: 2026-04-15
+Official page: https://www.legislation.vic.gov.au/in-force/acts/fines-reform-act-2014/033
