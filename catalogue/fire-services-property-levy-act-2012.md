@@ -1,5 +1,5 @@
 # Emergency Services and Volunteers Fund Act 2012
 Act number: 58/2012
-Authorised version: 034
-In force from: 2025-07-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/fire-services-property-levy-act-2012/034
+Authorised version: 035
+In force from: 2026-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/fire-services-property-levy-act-2012/035
