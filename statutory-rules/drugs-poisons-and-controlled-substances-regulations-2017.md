@@ -1,5 +1,5 @@
 # Drugs, Poisons and Controlled Substances Regulations 2017
 Statutory rule number: 29/2017
-Authorised version: 020
-In force from: 2025-11-25
-Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/drugs-poisons-and-controlled-substances-regulations-2017/020
+Authorised version: 021
+In force from: 2026-07-01
+Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/drugs-poisons-and-controlled-substances-regulations-2017/021
