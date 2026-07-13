@@ -1,5 +1,5 @@
 # County Court Miscellaneous Rules 2019
 Statutory rule number: 28/2019
-Authorised version: 004
-In force from: 2025-08-20
-Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/county-court-miscellaneous-rules-2019/004
+Authorised version: 005
+In force from: 2026-07-13
+Official page: https://www.legislation.vic.gov.au/in-force/statutory-rules/county-court-miscellaneous-rules-2019/005
