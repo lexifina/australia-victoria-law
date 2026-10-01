@@ -1,5 +1,5 @@
 # Ombudsman Act 1973
 Act number: 8414/1973
-Authorised version: 123
-In force from: 2026-05-01
-Official page: https://www.legislation.vic.gov.au/in-force/acts/ombudsman-act-1973/123
+Authorised version: 124
+In force from: 2026-10-01
+Official page: https://www.legislation.vic.gov.au/in-force/acts/ombudsman-act-1973/124
