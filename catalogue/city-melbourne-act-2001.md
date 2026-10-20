@@ -1,5 +1,5 @@
 # City of Melbourne Act 2001
 Act number: 5/2001
-Authorised version: 035
-In force from: 2026-09-30
-Official page: https://www.legislation.vic.gov.au/in-force/acts/city-melbourne-act-2001/035
+Authorised version: 036
+In force from: 2026-10-20
+Official page: https://www.legislation.vic.gov.au/in-force/acts/city-melbourne-act-2001/036
